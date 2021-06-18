@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/sqlchange.o
+release/sqlconfirm.o
+release/sqlcopy.o
+release/sqldelete.o
+release/sqlinsert.o
+release/moc_mainwindow.o
+release/moc_sqlchange.o
+release/moc_sqlconfirm.o
+release/moc_sqlcopy.o
+release/moc_sqldelete.o
+release/moc_sqlinsert.o

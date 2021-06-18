@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/sqlchange.o
+debug/sqlconfirm.o
+debug/sqlcopy.o
+debug/sqldelete.o
+debug/sqlinsert.o
+debug/moc_mainwindow.o
+debug/moc_sqlchange.o
+debug/moc_sqlconfirm.o
+debug/moc_sqlcopy.o
+debug/moc_sqldelete.o
+debug/moc_sqlinsert.o
